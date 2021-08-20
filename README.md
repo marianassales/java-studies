@@ -1,2 +1,2 @@
-# java-studies
+# java studies
  
